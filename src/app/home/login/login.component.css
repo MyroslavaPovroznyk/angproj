@@ -1,0 +1,18 @@
+.input
+{
+	color: black;
+	margin: 30px 115px 0px;
+}
+.input label
+{
+	font-size: 17px;
+	position: absolute;
+	transform: translateY(-100%);
+	padding: 5px 2px;
+	background: white;
+}
+.input input
+{
+	padding: 10px 20px;
+	font-size: 25px;
+}

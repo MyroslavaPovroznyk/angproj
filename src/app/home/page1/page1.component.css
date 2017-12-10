@@ -1,0 +1,41 @@
+.page1
+{
+    display: block;
+    width: 100%;
+    height: 700px;
+    background-image:linear-gradient(rgba(90, 90, 90, 0.78), rgba(90, 90, 90, 0.78)), url(http://newthemes.net/artim/sectors/construction/wp-content/uploads/2017/02/h2.jpg);
+    background-repeat: space;
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+    
+   
+}
+.page1 img
+{
+    width: 350px;
+    height: 540px;
+    float: left;
+    margin-left: 60px;
+    margin-top: 160px
+}
+.page1 p
+{
+    font-size: 20px;
+    color: white;
+    
+    text-align: left;
+    padding: 0 60px;
+    margin-left: 580px;
+    
+}
+.page1 h1
+{
+   
+    font-size: 40px;
+    color: white;
+    padding-top:70px;
+    margin-right: 200px;
+    margin-top: 0;
+    
+}

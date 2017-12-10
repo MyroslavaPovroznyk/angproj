@@ -1,0 +1,36 @@
+header
+{
+    width: 100%;
+    height: auto;
+    background: #fff;
+    margin: 0;
+    border-bottom: 1px solid #ddd;
+}
+header div
+{
+    float:right;
+    
+}
+header div li
+{
+   list-style: none;
+    padding-right: 40px;
+
+    
+}
+header div li a
+{
+    color: #fac200;
+    font-size: 20px;
+    text-decoration: none;
+    
+    
+}
+header p
+{
+    color: #424141;
+    font-size: 20px;
+    
+}
+
+header img{margin: 30px 50px;}

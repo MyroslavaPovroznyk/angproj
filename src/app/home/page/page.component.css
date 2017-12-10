@@ -1,0 +1,57 @@
+.page
+{
+    display: block;
+    width: 100%;
+    height: auto;  
+}
+.page img{width: 100%; height: auto;}
+.page h1
+{
+    position: absolute;
+    display: block;
+    width: 450px;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    height: 60px;
+    color: #fac200;
+    margin-top: 90px;
+    margin-left: 700px;
+    margin-right: 10px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.8);
+}
+.page h2
+{
+    position: absolute;
+    display: block;
+    width: 600px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    height: 35px;
+    color: white;
+    margin-top: 190px;
+    margin-left: 730px;
+    margin-right: 20px;
+    padding: 10px 0;
+    background: #fac200;
+    opacity: 0.8;
+}
+.page a
+{
+    position: absolute;
+    display: block;
+    width: 170px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    height: 35px;
+    color: white;
+    margin-top: 260px;
+    margin-left: 680px;
+    padding: 15px 15px 10px;
+    background: #fac200;
+    opacity: 0.8;
+    text-decoration: none;
+}

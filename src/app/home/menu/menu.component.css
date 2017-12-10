@@ -1,0 +1,24 @@
+menu
+{
+    position: relative;
+    display: block;
+    width: 100%;
+    background: #fff;
+}
+menu ul
+{
+    overflow: hidden;
+}
+menu ul li
+{
+    float: left;
+    list-style: none;
+}
+menu ul li a 
+{
+    display: block;
+    color: #424141;
+    padding: 0 20px;
+    font-size: 18px;
+    text-decoration: none;    
+}

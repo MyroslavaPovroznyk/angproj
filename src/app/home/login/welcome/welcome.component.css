@@ -1,0 +1,12 @@
+p
+{
+	color: rgba(44, 46, 61, 0.90);
+	font-size: 30px;
+	margin:30px 100px 0px;
+}
+p a
+{
+	font-size: 20px;
+    text-decoration: none;
+    color: rgba(218, 28, 92, 1.00);
+}

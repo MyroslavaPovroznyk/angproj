@@ -1,0 +1,35 @@
+.news
+{
+    position: relative;
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    background: #f7f7f7;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.news div
+{
+    width: calc(33.33% - 40px);
+    margin: 20px;
+    height: auto;
+    background: #fff;
+    float: left;
+}
+.news div img{width: 100%;}
+.news div h3
+{
+    text-align: left;
+    margin: 50px 0 20px 0;
+    padding: 0 50px;
+    font-size: 18px;
+    color: dimgray;
+}
+.news div p
+{
+    text-align: left;
+    padding: 0 50px;
+    font-size: 17px;
+    color: dimgray;
+    margin: 0 0 50px;
+}
